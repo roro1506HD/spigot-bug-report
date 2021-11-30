@@ -1,0 +1,5 @@
+name: SpigotBugReport
+version: 1.0.0
+api-version: 1.18
+author: roro1506HD
+main: ovh.roro.bugreport.SpigotBugReport
